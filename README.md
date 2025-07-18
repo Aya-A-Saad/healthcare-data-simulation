@@ -1,5 +1,4 @@
-# Healthcare-data-simulation
-# Simulated Clinical & Billing Data Generator
+# Synthetic Hospital Visits and Billing Records generator
 
 ## Overview
 This Python script generates a synthetic healthcare dataset that simulates clinical and billing records for healthcare analytics and data science practice.
